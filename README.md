@@ -1,5 +1,6 @@
 
 # Titanic-Analysis
+![Titanic Img](https://github.com/user-attachments/assets/f9827aed-2efa-456d-a3c5-b24883a32497)
 
 ## Introduction
 
